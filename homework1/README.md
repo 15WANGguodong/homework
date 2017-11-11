@@ -1,24 +1,9 @@
-# README
+运行结果部分截图：
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="/lib/1.png" width="700">  
 
-Things you may want to cover:
+<img src="/lib/2.png" width="700">
 
-* Ruby version
+<img src="/lib/3.png" width="700">   
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="/lib/4.png" width="700">
